@@ -34,8 +34,6 @@
 ![.NetCore](https://img.shields.io/badge/-.NetCore-05122A?style=flat&logo=.NetCore)&nbsp;
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)&nbsp;
 ![DataStructure](https://img.shields.io/badge/-DataStructure%20-05122A?style=flat&logo=DataStructure)&nbsp;
-![MachineLearning](https://img.shields.io/badge/-MachineLearning%20-05122A?style=flat&logo=MachineLearning)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaghadSameeh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
